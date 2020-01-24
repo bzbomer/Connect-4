@@ -1,9 +1,8 @@
-/*131044080
+/*
 OMER BOZABA
 CSE 241
 Object Oriented Programming
 Fall 2017
-Homework # 8
  */
 
 import javax.swing.*;
